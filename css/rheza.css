@@ -1,0 +1,540 @@
+
+mark {
+    background-color: #2086ff;
+    color: white;
+}
+
+.follow {
+  margin-top: 25px;
+  padding: 8px 15px;
+  border: 1px solid #2086ff;
+  border-radius: 5px;
+  -webkit-transition: border-color 200ms ease, color 200ms ease;
+  transition: border-color 200ms ease, color 200ms ease;
+  color: #2086ff;
+}
+
+.follow:hover {
+  border-color: #000;
+  color: #000;
+}
+
+.nav-bar {
+  min-height: 100px;
+  background-color: transparent;
+}
+
+
+.sec-1-row-left {
+  min-height: 588px;
+  background-image: url('http://rhezaportfolio.appspot.com/images/potretr.jpg');
+  background-position: 50% 50%;
+  background-size: 260px;
+  background-repeat: no-repeat;
+}
+
+.sec-2-row-left {
+  min-height: 588px;
+  background-image: url('http://rhezaportfolio.appspot.com/images/eznote1.png');
+  background-position: 50% 50%;
+  background-size: 260px;
+  background-repeat: no-repeat;
+}
+
+.sec-3-row-left {
+  min-height: 588px;
+  background-image: url('http://rhezaportfolio.appspot.com/images/learniqra.jpg');
+  background-position: 50% 50%;
+  background-size: 400px;
+  background-repeat: no-repeat;
+}
+
+.sec-4-row-left {
+  min-height: 588px;
+  background-image: url('http://rhezaportfolio.appspot.com/images/jobbe.jpg');
+  background-position: 50% 50%;
+  background-size: 400px;
+  background-repeat: no-repeat;
+}
+
+.sec-5-row-left {
+  min-height: 588px;
+  background-image: url('http://rhezaportfolio.appspot.com/images/officeworld.png');
+  background-position: 50% 50%;
+  background-size: 400px;
+  background-repeat: no-repeat;
+}
+
+.sec-6-row-left {
+  min-height: 588px;
+  background-image: url('http://rhezaportfolio.appspot.com/images/pureflickr.png');
+  background-position: 50% 50%;
+  background-size: 500px;
+  background-repeat: no-repeat;
+}
+
+.sec-7-row-left {
+  min-height: 588px;
+  background-image: url('http://rhezaportfolio.appspot.com/images/ticketbot.png');
+  background-position: 50% 50%;
+  background-size: 700px;
+  background-repeat: no-repeat;
+}
+
+.body {
+  font-family: 'Ecfc03d6 4840 4ec5 99aa 5f751da319b8', sans-serif;
+  font-size: 15px;
+}
+
+.h1 {
+  margin-bottom: 0px;
+  font-family: 'Ecfc03d6 4840 4ec5 99aa 5f751da319b8', sans-serif;
+  color: white;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: -1px;
+}
+
+.h1.centred {
+  text-align: center;
+}
+
+.h1.bottom-margin {
+  margin-bottom: 40px;
+}
+
+.h3 {
+  margin-top: 0px;
+  font-family: '73ecd6eb 3449 4816 bc8b e15e26e2fae5', sans-serif;
+  color:#7BAFD7;
+  font-weight: 400;
+}
+
+.h3.centred {
+  text-align: center;
+}
+
+.sec-1-row-right {
+  padding-top: 100px;
+}
+
+.p {
+  margin-top: 20px;
+  font-family: 'Ecfc03d6 4840 4ec5 99aa 5f751da319b8', sans-serif;
+  color: white;
+  font-size: 17px;
+  line-height: 23px;
+  font-weight: 400;
+}
+
+.bubble-photo {
+  display: block;
+  width: 100%;
+  height: 217px;
+  margin-left: -10px;
+  background-color: transparent;
+  background-image: url('/web/20190124163404im_/http://rhezaportfolio.appspot.com/images/bubble-photo.png');
+  background-position: 0px 50%;
+  background-size: 217px;
+  background-repeat: no-repeat;
+}
+
+.bubble-video {
+  display: block;
+  width: 100%;
+  height: 217px;
+  margin-left: 10px;
+  background-image: url('/web/20190124163404im_/http://rhezaportfolio.appspot.com/images/bubble-video.png');
+  background-position: 100% 50%;
+  background-size: 217px;
+  background-repeat: no-repeat;
+}
+
+.social-row {
+  margin-top: 50px;
+}
+
+.store-buttons {
+  margin-top: 60px;
+}
+
+.app-store {
+  width: 192px;
+  height: 60px;
+  background-image: url('/web/20190124163404im_/http://rhezaportfolio.appspot.com/images/app-store-button.png');
+  background-position: 50% 50%;
+  background-size: 192px;
+  background-repeat: no-repeat;
+}
+
+.app-store.footer {
+  display: block;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.app-store.page-footer {
+  float: right;
+}
+
+.gplay-button {
+  width: 192px;
+  height: 60px;
+  background-image: url('/web/20190124163404im_/http://rhezaportfolio.appspot.com/images/gplay-button.jpg');
+  background-position: 51% 50%;
+  background-size: 192px;
+  background-repeat: no-repeat;
+}
+
+.examples-row {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.more-on-instagram {
+  display: block;
+  width: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: 1px solid #2086ff;
+  border-radius: 5px;
+  background-color: transparent;
+  -webkit-transition: border-color 200ms ease, color 200ms ease;
+  transition: border-color 200ms ease, color 200ms ease;
+  color: #2086ff;
+  text-align: center;
+}
+
+.more-on-instagram:hover {
+  border-color: #000;
+  color: #000;
+}
+
+.sec-2-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.outlet-logo {
+  display: block;
+  width: 132px;
+  height: 65px;
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.citata {
+  display: block;
+  max-width: 400px;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 22px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.citata-row {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.sec-3 {
+  padding-top: 50px;
+}
+
+.footer-social-row {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.footer-social-container {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.footer-social-link {
+  color: #999;
+  text-decoration: none;
+}
+
+.footer-social-buttons-wrapper {
+  display: block;
+  max-width: 320px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.footer-links {
+  line-height: 30px;
+  text-align: center;
+}
+
+.footer-links-container {
+  margin-top: 50px;
+}
+
+.footer-copyright {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  color: #999;
+  text-align: center;
+}
+
+.footer-link {
+  padding-bottom: 5px;
+  border-style: none;
+  border-color: #d9d9d9;
+  border-bottom-width: 1px;
+  -webkit-transition: border 200ms ease;
+  transition: border 200ms ease;
+  color: #9DD1F4;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  border-style: none none solid;
+}
+
+.social-row-wrapper {
+  max-width: 240px;
+}
+
+.store-buttons-wrapper {
+  display: block;
+  max-width: 460px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.store-buttons-wrapper.footer {
+  margin-top: 150px;
+}
+
+.left-quote {
+  font-size: 42px;
+}
+
+.beta-sign-up {
+  display: block;
+  max-width: 240px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.submit-form {
+  display: block;
+  width: 240px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 5px;
+  background-color: #2086ff;
+  -webkit-transition: background-color 200ms ease;
+  transition: background-color 200ms ease;
+  font-family: 'Ecfc03d6 4840 4ec5 99aa 5f751da319b8', sans-serif;
+  font-size: 15px;
+}
+
+.submit-form:hover {
+  background-color: #0075ff;
+}
+
+.input-form {
+  border-style: none;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  font-family: 'Ecfc03d6 4840 4ec5 99aa 5f751da319b8', sans-serif;
+  font-size: 15px;
+}
+
+.sign-up-logo {
+  display: block;
+  margin: 50px auto 20px;
+}
+
+.sugn-up-beta-sign {
+  margin-bottom: 50px;
+  font-family: 'Ecfc03d6 4840 4ec5 99aa 5f751da319b8', sans-serif;
+  color: #999;
+  font-size: 15px;
+  text-align: center;
+}
+
+.beta-sign-up-form-success {
+  background-color: #f8f8f8;
+  font-family: 'Ecfc03d6 4840 4ec5 99aa 5f751da319b8', sans-serif;
+  color: #000;
+  font-size: 15px;
+}
+
+.beta-sign-up-form-error {
+  background-color: #fff1f1;
+  font-family: 'Ecfc03d6 4840 4ec5 99aa 5f751da319b8', sans-serif;
+  color: red;
+  font-size: 15px;
+  text-align: center;
+}
+
+html.w-mod-js *[data-ix="content-appear"] {
+  opacity: 0;
+}
+
+html.w-mod-js *[data-ix="bubble-appear"] {
+  opacity: 0;
+  -webkit-transform: scale(0.1, 0.1);
+  -ms-transform: scale(0.1, 0.1);
+  transform: scale(0.1, 0.1);
+}
+
+@media (max-width: 991px) {
+  .sec-1-row-right {
+    padding-top: 50px;
+  }
+  .bubble-photo {
+    margin-left: -62px;
+  }
+  .bubble-video {
+    margin-left: 69px;
+  }
+  .app-store {
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 767px) {
+  .nav-bar-container {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .sec-1-row-left {
+    overflow: hidden;
+  }
+  .h1 {
+    text-align: center;
+  }
+  .h3 {
+    text-align: center;
+  }
+  .sec-1-row-right {
+    padding-top: 0px;
+  }
+  .p {
+    text-align: center;
+  }
+  .bubble-photo {
+    margin-left: 49px;
+  }
+  .bubble-video {
+    margin-left: -48px;
+  }
+  .store-buttons {
+    display: inline-block;
+    max-width: 420px;
+  }
+  .app-store {
+    margin-right: 20px;
+  }
+  .app-store.page-footer {
+    float: none;
+  }
+  .examples-row {
+    margin-bottom: 50px;
+  }
+  .footer-social-container {
+    margin-top: 50px;
+  }
+  .social-row-wrapper {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .fb-button {
+    text-align: center;
+  }
+  .twi-button {
+    text-align: center;
+  }
+  .example-img {
+    display: block;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+  }
+  .store-buttons-wrapper {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+}
+
+@media (max-width: 479px) {
+  .follow {
+    margin-top: 30px;
+    padding: 7px 10px;
+    font-size: 14px;
+  }
+  .bubble-photo {
+    margin-left: -62px;
+  }
+  .bubble-video {
+    margin-left: 64px;
+  }
+  .app-store {
+    display: block;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+  }
+  .app-store.footer {
+    float: none;
+  }
+  .gplay-button {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .footer-links {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
+
+@font-face {
+  font-family: 'Ecfc03d6 4840 4ec5 99aa 5f751da319b8';
+  src: url('fonts/ecfc03d6-4840-4ec5-99aa-5f751da319b8.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: '73ecd6eb 3449 4816 bc8b e15e26e2fae5';
+  src: url('fonts/73ecd6eb-3449-4816-bc8b-e15e26e2fae5.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+/*
+     FILE ARCHIVED ON 16:34:04 Jan 24, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:06:14 Aug 17, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 57.311
+  exclusion.robots: 0.094
+  exclusion.robots.policy: 0.085
+  RedisCDXSource: 0.582
+  esindex: 0.01
+  LoadShardBlock: 38.879 (3)
+  PetaboxLoader3.datanode: 58.191 (5)
+  CDXLines.iter: 15.509 (3)
+  load_resource: 137.103 (2)
+  PetaboxLoader3.resolve: 62.806 (2)
+*/
